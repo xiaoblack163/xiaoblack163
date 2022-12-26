@@ -1,4 +1,4 @@
-### Hi there, I am xiaohei 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I+am+xiaohei+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 > A Front end developer from **beijing, China**.
 
@@ -14,6 +14,4 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaoblack163&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoblack163&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-### 📈 Activity Graph：
 
-![](https://activity-graph.herokuapp.com/graph?username=xiaoblack163&theme=react-dark)
